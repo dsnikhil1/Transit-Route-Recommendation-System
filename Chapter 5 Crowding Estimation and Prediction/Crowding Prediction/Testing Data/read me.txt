@@ -1,0 +1,7 @@
+Target: To create the testing data for interchanges prediction
+Background: Interchanges for 19B route between different O-D pairs on a given day are saved in a CSV file
+
+Input: 19B interchanges CSV file for Saidapet to Kelambakkam trips on all days from May 1st to May 31st
+Output: Testing data
+
+Scope: This code is valid only for the selected days and selected O-D pairs

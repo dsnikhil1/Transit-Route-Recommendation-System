@@ -1,0 +1,7 @@
+Target: To merge all the 27 depo files and create a single ETM data file for each day
+Background: ETM data for each day is stored in 27 CSV files and each file corresponds to one depo
+
+Input: Input the folder path where the files to be merged exist (eg: ETM Data Selected/031116)
+Output: One merged CSV file 
+
+Scope: This code can be used to merge files within any folder

@@ -1,0 +1,8 @@
+Target: To get Stage to Stage interchanges for all 19B trips on a given day in 2019
+Background: Routewise folder of a given day contains the ticket data for that route on that day
+
+Input: The route ticket data in CSV format, stageList in xlsx format, headers in xlsx format
+Output: Stage to Stage Interchanges for all the trips of 19B on the selected day
+
+Scope: If we input the ticket data and stageList for other route, we can get stage to stage interchanges for the other route. We can similarly get stage to stage interchanges on other days
+ 

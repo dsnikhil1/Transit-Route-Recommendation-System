@@ -1,0 +1,7 @@
+Target: To get Stage to Stage approximate travel time estimates for all 19B trips on a given day in 2019
+Background: Routewise folder of a given day contains the ticket data for that route on that day
+
+Input: The route ticket data in CSV format, stageList in xlsx format, headers in xlsx format
+Output: Approximate Stage to Stage travel time estimates for all the trips of 19B on the selected day
+
+Scope: If we input the ticket data and stageList for other route, we can get stage to stage approximate travel time estimates for the other route. We can similarly get approximate stage to stage travel time estimates on other days

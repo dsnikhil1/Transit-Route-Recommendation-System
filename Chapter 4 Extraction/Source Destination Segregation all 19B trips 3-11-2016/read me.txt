@@ -1,0 +1,7 @@
+Target: To know the unique source destination pairs for 19B trips on a given day
+Background: 19B trips occur only from Depos ADY, AND, SPD, and TVM
+
+Input: From the ETM Data Selected folder, select 3-11-2016 folder and load the files ADY, AND, SPD, and TVM in csv format
+Output: Unique Source Destination pairs for 19B trips on 3-11-2016
+
+Scope: This process can be repeated for other days of Nov 2016. If we input the files for other days, we get output for other days

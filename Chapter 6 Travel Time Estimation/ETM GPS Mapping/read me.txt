@@ -1,0 +1,7 @@
+Target: To find the corresponding GPS data file for selected ETM data on a given day and locate the file
+Background: ETM and GPS merging happens on the basis of Fleet ID and Depo Name
+
+Input: Ticket data of a given day, ETM-GPS Mapping file obtained from MTC
+Output: ETM GPS exact matches file
+
+Scope: This code can be applied to all days of Nov 2016 to obtain the matches and location of the GPS files

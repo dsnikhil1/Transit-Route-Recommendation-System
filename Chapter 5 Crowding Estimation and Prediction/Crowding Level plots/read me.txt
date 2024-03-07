@@ -1,0 +1,11 @@
+Target: To get the crowding level on the link connecting two stages
+Background: Based on the boardings and alightings at each stage, occupancy is calculated according to the state space equation and crowding level is assigned based on the occupancy (column named 'crowd')
+
+Input: Merged ticket data file of 3-11-2016, manually ordered stages file in CSV format for the selected route, source name, destination name
+Output: Crowding Level plot for all trips on 3-11-2016 between the selected origin and destination
+
+Scope: If we change the origin and destination, we should also change the stages ordered file. We should also check for the stage names in the stages ordered file. Crowding Level defined as:
+
+Low: crowd <= 30 .....> crowding level defined as 0 (Green color)
+Medium: crowd > 30 and crowd <= 40 ...........> crowding level defined as 1 (Blue color)
+High: crowd > 40 ...............> crowding level defined as 2 (Red color)

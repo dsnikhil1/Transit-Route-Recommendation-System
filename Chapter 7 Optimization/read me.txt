@@ -1,0 +1,6 @@
+Target: To find the optimal routes between an O-D pair
+
+Input: Network file
+Output: Optimal route(s) between an O-D pair
+
+Scope: This code is applicable to any network which is of the format given in the file 'Network 1'

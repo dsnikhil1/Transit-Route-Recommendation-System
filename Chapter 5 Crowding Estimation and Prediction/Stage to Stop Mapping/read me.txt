@@ -1,0 +1,7 @@
+Target: To visualize the tickets issued at a stage and try MeanShift Clustering 
+Background: If we can find the cluster of tickets issued at each stage, we can assign the tickets to stops and map the stops to stages
+
+Input: Ticket data for any one trip, Ordered Stage list for the route corresponding to that trip
+Output: Some plots for visualization and results of MeanShift Clustering
+
+Scope: This code is incomplete and stage to stop mapping is not complete. This code is just for reference

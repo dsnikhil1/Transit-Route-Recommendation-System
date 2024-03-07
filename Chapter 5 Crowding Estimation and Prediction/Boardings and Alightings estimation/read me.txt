@@ -1,0 +1,7 @@
+Target: To get the boardings and alightings at each stage for all the trips on 3-11-2016
+Background: Ticket data on a given day consists data of all trips between different O-D pairs made on that day
+
+Input: Merged ticket data file of 3-11-2016
+Output: Boardings and Alightings at each stage for all the trips on that day
+
+Scope: The Stages list is obtained from the ticket data. For a schedule, all unique stages are collected from all the trips which gives the stage list for that schedule

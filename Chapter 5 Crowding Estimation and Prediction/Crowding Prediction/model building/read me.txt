@@ -1,0 +1,5 @@
+Given training and testing data, we need to build models for prefiction
+
+Historical model building regression file contains Linear Regression models and PCA+Linear Regression models
+
+The other python notebook file contains different models like Random Forest Regressor, PCA+Random Forest Regressor, and MLP Regressor models

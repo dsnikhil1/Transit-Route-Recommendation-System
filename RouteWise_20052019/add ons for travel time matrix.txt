@@ -1,0 +1,14 @@
+to add:
+Date
+Depot
+Schedule
+Route
+ServiceType
+ETMDevice number
+Fleet iD
+Trip No
+Trip Start time
+Trip End time
+Source
+Destination
+FirstTicket
